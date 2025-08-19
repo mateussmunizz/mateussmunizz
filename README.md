@@ -8,7 +8,7 @@ Hey there, Mateus here! 👋🏻
 
 Currently qualifying as a Web Developer, I'm actively seeking challenging opportunities to launch my career, collaborating with innovative teams, and continually growing.
 
-I'm determined to apply my sharp logic, attention to detail, and quick learning ability to create effective technology solutions.
+I'm determined to apply my refined logic, attention to detail, and quick learning ability to create effective technology solutions.
 
 
 
