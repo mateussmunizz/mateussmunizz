@@ -13,6 +13,7 @@ Currently qualifying as a Web Developer, I'm actively seeking challenging opport
 I'm determined to apply my refined logic, attention to detail, and quick learning ability to create effective technology solutions.
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateussmunizz&hide_progress=true)
 
 
  **Programming Languages**
