@@ -8,9 +8,10 @@
 
 </div>
 
-Currently qualifying as a Web Developer, I'm actively seeking challenging opportunities to launch my career, collaborating with innovative teams, and continually growing.
+Currently, I'm actively qualifying as a Web/Full-Stack Developer, continually building a strong foundation in essential languages and frameworks. I am actively seeking a challenging internship opportunity to launch my professional career, where I can collaborate with innovative teams and make a tangible contribution.
 
-I'm determined to apply my refined logic, attention to detail, and quick learning ability to create effective technology solutions.
+
+​I am determined to leverage my refined logic and impeccable attention to detail not just to write code, but to architect efficient and scalable technology solutions. My quick learning ability ensures I remain current with new tools and ready to master any technology required to drive continuous growth and impact the team's success.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateussmunizz&hide_progress=true)
